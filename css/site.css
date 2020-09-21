@@ -1,3 +1,6 @@
+body {
+	font-family: 'Lato', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
+}
 .yael {
 	display: inline-flex;
 	align-items: center;
@@ -161,6 +164,7 @@ font-weight: 700;
 .zeroed {
 margin: 0!important;
 	padding: 0!important;
+
 	
 }
 
