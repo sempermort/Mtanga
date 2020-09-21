@@ -10067,3 +10067,23 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 
+
+
+.pills-radius {
+	border-radius: 30px;
+	border-color: #fff;
+	color: #fff;
+	align-items: center;
+}
+.button {
+	padding-top: 20px;
+	
+}
+
+.cloring1 {
+
+}
+
+.zeroed1 {
+	background: #b2a62c;
+}
