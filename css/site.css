@@ -71,15 +71,7 @@ h4 {
 	padding-right: 35px;
 	padding-bottom: 20px;
 }
-.card-text-sellers {
-    font-size: 11px;
-    text-transform: uppercase;
-    font-weight: 500;
-    color: #bfab80;
-    line-height: 1;
-    margin-bottom: 8px;
-	
-}
+
 .card-title-sellers {
 	font-size: 14px;
 	font-weight: 400;
@@ -239,3 +231,25 @@ display: inline-flex;
 #exampleSlider {
 	border: none !important;
 }
+
+.colorimg {
+	background: #4fb8f1;
+}
+.item {
+	margin: 5px;
+	width: 25% !important;
+	
+}
+.product-category a {
+	color: #878787;
+	text-transform: uppercase;
+}
+/*news*/
+.post-title a, p {
+	color: #121212;
+	
+}
+
+
+
+

@@ -19,10 +19,10 @@ html h2 {
   }
 }
 #exampleSlider .MS-content {
-  margin: 15px 5%;
+  
   overflow: hidden;
   white-space: nowrap;
-  border: 1px solid red;
+  
 }
 @media (max-width: 767px) {
   #exampleSlider .MS-content {
@@ -35,7 +35,7 @@ html h2 {
   overflow: hidden;
   position: relative;
   vertical-align: top;
-  border: 1px solid green;
+  
   border-right: none;
   width: 20%;
 }
