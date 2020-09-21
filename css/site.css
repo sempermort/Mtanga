@@ -126,7 +126,12 @@ min-width: 690px !important;
 
 @media (max-width: 792px)
 {
-
+.col1 {
+	-ms-flex:none!important;
+	flex: none!important;
+	max-width:100% !important;
+	margin: 10px;
+}
 
     .cus_width{
 
@@ -236,6 +241,12 @@ display: inline-flex;
 	border: none !important;
 }
 
+.col1 {
+	-ms-flex:1;
+	flex: 1;
+	max-width:20%;
+	margin: 10px;
+}
 .colorimg {
 	background: #4fb8f1;
 }
