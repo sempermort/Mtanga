@@ -268,3 +268,16 @@ display: inline-flex;
 
 
 
+
+.img42 {
+	
+	width: 100%;
+	object-fit: cover;
+	  background-repeat: no-repeat;
+	
+
+}
+
+.spaced {
+	margin :15px;
+}
