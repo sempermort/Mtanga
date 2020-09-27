@@ -80,6 +80,7 @@ h4 {
 	font-weight: 400;
 	margin-bottom: 6px;
 	line-height: 1.5;
+	text-align: left;
 }
 .price {
 	font-weight: 600;
@@ -149,7 +150,8 @@ min-width: 690px !important;
 .col_words {
 	padding: 25px !important;
 	color:white !important;
-	
+	    text-align: left;
+	 font :caption;
 }
 
 .col_p {
@@ -174,7 +176,7 @@ margin: 0!important;
 }
 
 .co_height {
-	height: auto;
+	height: 100%;
 }
 
 .our_bg_color {
@@ -793,4 +795,17 @@ p.ism-badge a.ism-link:hover {
 
 .spaced {
 	margin :15px;
+	padding: 0;
+}
+
+.btn-colr {
+	background: #1fb2dc;
+}
+
+.price-amount {
+	float:right;
+}
+
+.zero_margin {
+	margin: 15px 0;
 }
